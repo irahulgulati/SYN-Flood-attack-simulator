@@ -1,4 +1,5 @@
 # SYN-Flood-attack-simulator
+A Python script that simulates SYN-Flood attack using SCAPY module.
 This script generates IPv4 Packets with its SYN flag set in TCP layer. This script will generate and flood multiple SYN packets with random source ports to avoid detection of TCP packet retransmits by IDS/IPS, if any.
 
 
